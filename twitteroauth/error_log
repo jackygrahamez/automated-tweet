@@ -1,0 +1,14 @@
+[02-Dec-2010 15:33:32] PHP Fatal error:  Call to a member function get() on a non-object in /home/jamaicav/public_html/twitteroauth/twitteroauth/tweet_villa.php on line 18
+[02-Dec-2010 15:36:21] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/jamaicav/public_html/twitteroauth/twitteroauth/tweet_villa.php on line 19
+[02-Dec-2010 15:49:09] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/jamaicav/public_html/twitteroauth/twitteroauth/tweet_villa.php on line 19
+[02-Dec-2010 15:52:08] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/jamaicav/public_html/twitteroauth/twitteroauth/tweet_villa.php on line 19
+[03-Dec-2010 09:30:31] PHP Warning:  Invalid argument supplied for foreach() in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 22
+[03-Dec-2010 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 22
+[03-Dec-2010 09:32:57] PHP Warning:  Invalid argument supplied for foreach() in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 22
+[03-Dec-2010 09:33:35] PHP Warning:  Invalid argument supplied for foreach() in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 22
+[03-Dec-2010 09:33:37] PHP Warning:  Invalid argument supplied for foreach() in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 22
+[03-Dec-2010 09:34:30] PHP Warning:  Invalid argument supplied for foreach() in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 22
+[03-Dec-2010 09:54:35] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting '(' in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 41
+[03-Dec-2010 09:58:12] PHP Parse error:  syntax error, unexpected '<' in /home/jamaicav/public_html/twitteroauth/twitteroauth/read_tweet.php on line 41
+[03-Dec-2010 10:17:00] PHP Warning:  phpinfo() has been disabled for security reasons in /home/jamaicav/public_html/twitteroauth/twitteroauth/phpinfo.php on line 4
+[03-Dec-2010 10:17:00] PHP Warning:  phpinfo() has been disabled for security reasons in /home/jamaicav/public_html/twitteroauth/twitteroauth/phpinfo.php on line 8

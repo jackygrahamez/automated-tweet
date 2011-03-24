@@ -1,0 +1,25 @@
+define function row ($link, $title)
+{
+  <div>
+    RSS item <b> {$title}</b> is located at <b>
+{$link}</b>
+  </div>
+}
+
+define function filter-rss ($url)
+{
+ for $b in document($url)/rss/channel/item
+ return row($b/link/text(), $b/title/text())
+}
+
+<html>
+  <body>
+  <i>Remote RSS Feed Demo, written in XQuery. 
+    Compiled and Run by The Open Source QEXO.org engine.</i>
+  <hr/>
+
+ {filter-rss("http://www.javablogs.com/ViewDaysBlogs.jspa?view=rss")}
+ {filter-rss("http://radio.weblogs.com/0109827/rss.xml")}
+
+  </body>
+</html>
